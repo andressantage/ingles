@@ -79,3 +79,19 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont-input{
+    color: yellow; 
+    background-color: blue; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 18px; 
+    text-align: center; 
+    font-weight: bold; 
+    border-radius: 10px;
+    border: 1px solid black;
+}
+    
